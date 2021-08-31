@@ -1,0 +1,23 @@
+body {
+background-color: gray;
+}
+h4{
+    text-align: center;
+    font-size: 150%;
+
+}
+.Formbackground {
+    display:flex;
+    background-color:darkgray ;
+    
+
+}
+.center
+{
+    display: inline;
+    text-align: justify;
+}
+.Formvalidation
+{
+    text-align:left;
+}
